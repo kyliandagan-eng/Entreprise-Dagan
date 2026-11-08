@@ -1,0 +1,10 @@
+{
+  "name": "moteur-animation-tiktok",
+  "private": true,
+  "description": "Rendu de videos TikTok 1080x1920 en code (Three.js + Playwright + ffmpeg)",
+  "dependencies": {
+    "three": "0.160.0",
+    "@fontsource/montserrat": "5.0.17",
+    "@fontsource/jetbrains-mono": "5.0.18"
+  }
+}
