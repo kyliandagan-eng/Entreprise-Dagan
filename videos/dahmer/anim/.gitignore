@@ -1,0 +1,5 @@
+node_modules/
+stills/
+chunks/
+*.mp4
+*.log

@@ -20,6 +20,23 @@ Référence : la vidéo du crash du Learjet 60 (moteur dans `moteur-animation/`)
 | **Pierres tombales** | Bilan humain, apparition une par une | Blanches avec halo |
 | **Flash blanc + traits de vitesse** | Transition vers le drame | 0,5 s |
 
+## Éléments ajoutés pour les vidéos « true crime » (référence : `dahmer/`)
+| Élément | Usage |
+|---|---|
+| **Carton « ÂME SENSIBLE S'ABSTENIR »** | 1,8 s au tout début : triangle d'alerte, fumée rouge, glitch, battement de cœur |
+| **Compteur de victimes** (haut droite) | Augmente au fil de l'histoire, avec un petit sous-titre d'explication (« +2 CHEZ SA GRAND-MÈRE ») |
+| **Rouleau d'années** | Retour en arrière (1991 → 1964) ou ellipse (« 9 ANS DE SILENCE »), avec un effet de rembobinage VHS |
+| **Chrono géant** | Compte à rebours dramatique (« 30:00 → 00:00 ») |
+| **Citation** | Phrase rapportée, avec la source en dessous (« DAHMER AUX POLICIERS ») |
+| **Mémorial final** | Bougies qui s'allument une à une et noms des victimes : finir sur les victimes, pas sur le tueur |
+| **Silhouettes sans visage** | Personnages 3D anonymes : on suggère, on ne montre jamais la violence |
+
+## Rendu « cinéma »
+Bloom sur les sources lumineuses, grain film, vignettage, légère aberration chromatique et étalonnage par ambiance (nuit, chaud, froid, holo, tribunal, rouge, mémorial). S'y ajoutent des faisceaux de lumière volumétriques, de la poussière en suspension et des mouvements de caméra lents et continus (courbes douces, léger « à l'épaule »).
+
+## Son
+Il faut une musique de fond discrète, environ 12 dB sous la voix, avec un impact grave sur chaque gros titre et un « whoosh » à chaque changement de lieu. On ajoute un silence complet pour les ellipses et des effets réalistes discrets (sirène lointaine, obturateur Polaroid, marteau du juge). Le niveau final est de −14 LUFS.
+
 ## Palette
 - Ciels en dégradé (violet → orange → crème le jour, bleu nuit la nuit).
 - Rouge alerte `#ff4b22`, jaune « enquête » `#f5e04a`, cyan hologramme `#46d4ff`.
